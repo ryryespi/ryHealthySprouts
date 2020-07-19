@@ -1,0 +1,19 @@
+{
+  "name": "healthysprouts",
+  "version": "1.0.0",
+  "description": "Healthy Sprouts Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryryespi/ryHealthySprouts.git"
+  },
+  "author": "Ryan Rey Espinosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryryespi/ryHealthySprouts/issues"
+  },
+  "homepage": "https://github.com/ryryespi/ryHealthySprouts#readme"
+}
