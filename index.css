@@ -1,0 +1,155 @@
+.hs-bg-cyan{
+    background-color:#59b9c7;
+}
+
+
+.logo-container{
+    width: 200px; 
+}
+
+.logo {
+max-width: 200px;
+}
+
+.hs-navbar{
+    color:#227D6B;
+}
+
+.hs-navbar-item{
+    padding:10px;
+    color:inherit;
+    text-decoration: none;
+}
+
+
+
+.hs-section{
+    width:100%;
+    min-height:840px;
+    color:#045434;
+    margin:0 auto;
+    pointer-events: auto;
+    vertical-align: baseline;
+}
+
+.hs-section-s{
+    width:100%;
+    min-height:600px;
+}
+
+.hs-test-element{
+    min-height:840px;
+}
+
+.hs-image{
+    position:static;    
+    width:100%;
+    height:auto;
+    min-height:960px;   
+    display:block;
+}
+
+.hs-image-sprouts{
+background-image: url("sprouts.jpg")top left no-repeat;
+}
+
+.hs-title{
+    font-weight: lighter;
+    color: #59b9c7;
+    font: normal normal normal 88px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+}
+
+.hs-padding{
+    min-height:130px;
+}
+
+.hs-padding-i{
+    display:none;
+    min-height:130px;
+}
+
+.hs-padding-s{
+    min-height:70px;
+}
+
+
+.hs-font{
+    line-height: 1.41em;
+    font: normal normal normal 22px/1.41em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+    color: #045434;
+    margin:auto;
+}
+
+.hs-info-element{
+    min-height: 130px;
+}
+
+.hs-info-padding{
+    min-height: 70px;
+}
+
+
+.hs-info-title{
+    font-weight:bold;
+    color: white;
+    letter-spacing: normal;
+    line-height: 1.35em;
+    font: normal normal normal 44px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+    width: 100%;
+}
+
+.hs-info-text{
+    text-align: center;
+    font: normal normal normal 19px/1.41em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+    color: white;
+    width: 80%;
+    margin:auto;
+}
+
+.hs-info-subtitle{
+    font: normal normal normal 17px/1.8em raleway,sans-serif;
+    color: white;
+}
+
+.hs-info{
+    background-color:#59b9c7;
+}
+
+.hs-about-title{
+    font-weight:700;
+    color: #59b9c7;
+    letter-spacing: normal;
+    line-height: 3.0em;
+    font: normal normal normal 88px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+}
+
+.hs-subscribe-element{
+    min-height:150px;
+}
+
+.hs-subscribe-btn{
+        background-color:#59b9c7 ;
+        color:white;
+}
+
+.hs-banner-container{
+    min-height:300px;
+}
+
+.hs-banner{
+    height:200px;
+}
+
+.hs-contact-element{
+    min-height:170px;
+}
+
+.hs-ref-bg{
+    background-color:#045434;
+}
+
+.hs-ref-text{
+    color:white;
+    text-decoration-color:white;
+
+}
