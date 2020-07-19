@@ -2,6 +2,10 @@
     background-color:#59b9c7;
 }
 
+.hs-font-cyan{
+    color:#59b9c7;
+}
+
 
 .logo-container{
     width: 200px; 
@@ -115,13 +119,6 @@ background-image: url("sprouts.jpg")top left no-repeat;
     background-color:#59b9c7;
 }
 
-.hs-about-title{
-    font-weight:700;
-    color: #59b9c7;
-    letter-spacing: normal;
-    line-height: 3.0em;
-    font: normal normal normal 88px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
-}
 
 .hs-subscribe-element{
     min-height:150px;
