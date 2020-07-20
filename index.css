@@ -63,6 +63,17 @@ background-image: url("sprouts.jpg")top left no-repeat;
     font: normal normal normal 88px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
 }
 
+
+@media only screen and (max-width: 400px){
+
+    .hs-title{
+        font-weight: lighter;
+    color: #59b9c7;
+    font: normal normal normal 88px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+font-size:10vw;
+    }    
+}
+
 .hs-padding{
     min-height:130px;
 }
