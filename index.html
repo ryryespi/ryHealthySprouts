@@ -58,10 +58,11 @@
 
             <div class="col text-center">
 
-                <div class="row flex-column align-items-center mt-xl-5 ">
+                <div class="row flex-column align-items-center mt-sm-5 ">
                     
-                    <h1 class="col-6 hs-title">The Story Of Healthy Sprouts</h1>
-                    <p class="col-8 hs-font mt-auto">Healthy Sprouts is a local, all natural farming out of Galt,
+                    <h1 class="col-6 hs-title d-none d-sm-block">The Story Of Healthy Sprouts</h1>
+                    <h1 class="col-6 display-3 d-sm-none hs-font-cyan">The Story Of Healthy Sprouts</h1>
+                    <p class="col-8 hs-font pt-4">Healthy Sprouts is a local, all natural farming out of Galt,
                         CA.
                         Specializing in providing a rich variety of healthy Microgreens
                         and fresh vegetables to the North/Central Valley locations.
@@ -70,18 +71,22 @@
                     </p>
 
                 </div>
+
+
+                <div class="row hs-padding-s"></div>
+
             </div>
            
             <div class="col d-none d-lg-block">
                 <img class="hs-image card-img-right" src="./images/sprouts.jpg" alt="Sprout Microgreens">
             </div>
-            
         </div>
+        
 
     </section>
 
     <!-- Info / Facts about microgreens -->
-    <section id="info" class="hs-info hs-section container-fluid text-center">
+    <section id="info" class="hs-info container-fluid text-center">
 
         <div class="row justify-content-center">
 
@@ -144,7 +149,7 @@
     </section>
 
     <!--Subscribe Section-->
-    <section id="subscribe" class="hs-section-s container-fluid text-center">
+    <section id="subscribe" class="container-fluid text-center">
 
         <div class=" row flex-column align-items-center">
 
@@ -153,8 +158,9 @@
             <div class="hs-padding col"></div>
 
             <!--First Element-->
-            <div class="hs-subscribe-element col">
-                <p class="hs-about-title display-5">About US</p>
+            <div class="col text-center">
+                <h1 class="hs-title p-5 d-none d-sm-block">About Us</h1>
+               <h1 class="display-4 hs-font-cyan p-5 d-sm-none">About Us</h1>
             </div>
 
             <!--Second Element-->
@@ -180,7 +186,7 @@
 
 
 <!--Healthy Sprouts Gallery-->
-        <div id="gallery" class="hs-section-xs">
+        <div id="gallery">
 
             <div id="healthySproutsGallery" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -229,7 +235,8 @@
                     <li data-target="#healthySproutsTestimonial" data-slide-to="0" class="active"></li>
                     <li data-target="#healthySproutsTestimonial" data-slide-to="1"></li>
                     <li data-target="#healthySproutsTestimonial" data-slide-to="2"></li>
-                    <li data-target="#healthySproutsTestimonial" data-slide-to="3"></li>
+                 
+                    
                 </ol>
                 <div class="carousel-inner align-items-center text-light">
                    
@@ -250,7 +257,7 @@
                    
                    <!--testimonial 2-->
                     <div class="carousel-item" data-interval="2000">
-                        <div class="card w-100 d-block" alt="...">
+                        <div class="hs-card w-100 d-block" alt="...">
                             <div class="hs-padding"></div>
                             <div class="card-body text-center ">
                                 <h1 class="card-title h1">Customer 2</h1>
@@ -263,7 +270,7 @@
                    
                    <!--testimonial 3-->
                     <div class="carousel-item">
-                        <div class="card w-100 d-block" alt="...">
+                        <div class="hs-card w-100 d-block" alt="...">
                             <div class="hs-padding"></div>
                             <div class="card-body text-center">
                                 <h1 class="card-title h1">Customer 3</h1>
@@ -299,15 +306,16 @@
         <section id="products" class="hs-section container">
             <div class="row justify-content-center">
                 <div>
-                    <h1 class="h1 p-4">Our Products</h1>
+                    <h1 class="hs-title p-4 d-sm-block d-none">Our Products</h1>
+                    <h1 class="display-4 p-4 hs-font-cyan d-sm-none">Our Products</h1>
 
                 </div>
                 
             </div>
-            <div class="row justify-content-around ">
+            <div class="row justify-content-center">
                 
                 <!--Red Garnet Product-->
-                <div class="col-sm-6 d-flex align-items-stretch">   
+                <div class="cols-12 col-md-6 d-flex align-items-stretch">   
                         <div class="card" alt="...">
                             <img src="./images/garnet.jpg" class="card-img-top" alt="...">
                             
@@ -322,7 +330,7 @@
                 </div>
 
                 <!--Arugula-->
-                <div class="col-sm-6 d-flex align-items-stretch">   
+                <div class="cols-12 col-md-6 d-flex align-items-stretch">   
                     <div class="card" alt="...">
                         <img src="./images/arugula.jpg" class="card-img-top" alt="...">
                        
@@ -337,7 +345,7 @@
 
 
                 <!--Broccoli-->
-                <div class="col-sm-6 d-flex align-items-stretch">   
+                <div class="cols-12 col-md-6 d-flex align-items-stretch">   
                     <div class="card" alt="...">
                         <img src="./images/broccoli.jpg" class="card-img-top" alt="...">
                      
@@ -352,7 +360,7 @@
 
 
                 <!--Pea Shoots-->
-                <div class="col-sm-6 d-flex align-items-stretch">   
+                <div class="cols-12 col-md-6 d-flex align-items-stretch">   
                     <div class="card" alt="...">
                         <img src="./images/sprouts.jpg" class="card-img-top" alt="...">
                        
@@ -368,7 +376,7 @@
 
 
                 <!--Super Sprout Mix-->
-                <div class="col-sm-6 d-flex  align-items-stretch">   
+                <div class="cols-12 col-md-6 d-flex  align-items-stretch">   
                     <div class="card" alt="...">
                         <img src="./images/package.jpg" class="card-img-top" alt="...">
                     
@@ -382,7 +390,7 @@
 
 
                 <!--Sunflower-->
-                <div class="col-sm-6 d-flex align-items-stretch">   
+                <div class="cols-12 col-md-6 d-flex align-items-stretch">   
                     <div class="card" alt="...">
                         <img src="./images/sunflower.jpg" class="card-img-top" alt="...">
                         
@@ -401,7 +409,7 @@
                 </div>
 
                 <!--Spicy Salad Mix-->
-                <div class="col-sm-6 d-flex align-items-stretch">   
+                <div class="cols-12 col-md-6 d-flex align-items-stretch">   
                     <div class="card" alt="...">
                         <img src="./images/microSalad.jpg" class="card-img-top" alt="...">
                         
@@ -440,11 +448,12 @@
 
                         <div class="hs-padding-s"></div>
 
-                        <div class="col">
-                            <p class="hs-title text-center">Contact</p>
+                        <div class="col text-center">
+                            <h1 class="hs-title d-sm-block d-none">Contact</h1>
+                            <h1 class="display-4 p-4 hs-font-cyan d-sm-none">Contact</h1>
                         </div>
 
-                        <div class="col-xl-6 ">
+                        <div class="col-xl-8 ">
 
                             <form class="contactForm" onsubmit="event.preventDefault(); return false;">
                                 <div class="form-group">
@@ -562,6 +571,7 @@
                 </div>
             </div>
             <div class="col-2"></div>
+            <div class="row hs-padding-s"></div>
 
     </div>
 
