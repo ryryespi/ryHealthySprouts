@@ -1,17 +1,20 @@
 {
-  "name": "healthysprouts",
+  "name": "ryhealthysprouts",
   "version": "1.0.0",
-  "description": "Healthy Sprouts Website",
-  "main": "index.html",
+  "description": "Healthy Sprouts Commission",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryryespi/ryHealthySprouts.git"
   },
-  "author": "Ryan Rey Espinosa",
+  "author": "Ryan Espinosa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ryryespi/ryHealthySprouts/issues"
