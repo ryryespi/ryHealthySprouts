@@ -7,10 +7,10 @@ dirname("/public");
 
 <head>
     <!--coded by Ryan Rey Espinosa ryryespi@yahoo.com-->
-    <link rel="stylesheet" type="text/css" href="/stylesheets/index.css">
+    <link rel="stylesheet" type="text/css" href="public/stylesheets/index.css">
     <!--initialize hs.js by adding <script>var eMail = yourEmail@domain.com </script> to home page -->
     <script>var eMail = "healthySprouts01@yahoo.com"; </script>
-    <script type="text/javascript" src="/stylesheets/hs.js"></script>
+    <script type="text/javascript" src="public/stylesheets/hs.js"></script>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -42,7 +42,7 @@ dirname("/public");
     <nav class="container d-none d-md-block">
         <div class="row">
             <div class="col-2 py-4">
-                <img class="hs-logo" src="/images/hslogo.svg" alt="Healthy Sprouts Logo">
+                <img class="hs-logo" src="public/images/hslogo.svg" alt="Healthy Sprouts Logo">
             </div>
 
             <div class="col-10 navbar navbar-light text-uppercase text-reset">
@@ -98,7 +98,7 @@ dirname("/public");
     </nav>
 
     <div class="d-md-none col text-center pt-5 mt-3">
-        <img class="hs-logo pt-2" src="/images/hslogo.svg" alt="Healthy Sprouts Logo">
+        <img class="hs-logo pt-2" src="public/images/hslogo.svg" alt="Healthy Sprouts Logo">
     </div>
 
 
@@ -115,7 +115,7 @@ dirname("/public");
 
             <!--Banner Logo (Healthy Sprouts Farm Fresh Superfood!)-->
             <div class="col-10 text-center">
-                <img class="hs-banner-img text-center" src="/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!">
+                <img class="hs-banner-img text-center" src="public/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!">
             </div>
 
             <!--hs location-->
@@ -138,7 +138,7 @@ dirname("/public");
 
             <div class="col-md-6">
                 <div class="card d-flex align-items-stretch rounded-lg text-center text-light">
-                    <img class="card-img" src="/images/broccoli.jpg">
+                    <img class="card-img" src="public/images/broccoli.jpg">
 
                     <div class="card-body hs-font-cyan">
                         <div class="card-img-overlay text-center mt-5 pt-5">
@@ -166,7 +166,7 @@ dirname("/public");
 
             <div class="col-md-6">
                 <div class="card d-flex align-items-stretch rounded-lg text-center text-light">
-                    <img class="card-img" src="/images/sunflower.jpg">
+                    <img class="card-img" src="public/images/sunflower.jpg">
 
                     <div class="card-body hs-font-cyan">
                         <div class="card-img-overlay text-center mt-5 pt-5">
@@ -216,14 +216,14 @@ dirname("/public");
             </div>
 
             <div class="col text-center">
-                <img class="img-thumbnail w-50 m-5" src="/images/toss.jpg">
+                <img class="img-thumbnail w-50 m-5" src="public/images/toss.jpg">
             </div>
 
             <!--Element 1 (what are microgreens)-->
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -239,7 +239,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -263,7 +263,7 @@ dirname("/public");
 
             <!--Nutrients From Microgreens Image-->
             <div class="col text-center">
-                <img class="img-thumbnail w-50 m-5" src="/images/arugula.jpg">
+                <img class="img-thumbnail w-50 m-5" src="public/images/arugula.jpg">
             </div>
 
 
@@ -271,7 +271,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -289,7 +289,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -307,7 +307,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -326,7 +326,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3 ml-5">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -344,7 +344,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3 ml-5">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -361,7 +361,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3 ml-5">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -614,7 +614,7 @@ dirname("/public");
                         <div class="col d-flex align-items-stretch">
                             <div class="card text-center" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseAmaranth">
-                                    <img src="/images/garnet.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/garnet.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title text-uppercase h3 hs-font-dark-green">Red Garnet Amaranth</h1>
 
                                 </a>
@@ -644,7 +644,7 @@ dirname("/public");
                         <div class="col d-flex align-items-stretch">
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseArugula">
-                                    <img src="/images/arugula.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/arugula.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title  text-uppercase h3 hs-font-dark-green">Arugula</h1>
 
                                 </a>
@@ -676,7 +676,7 @@ dirname("/public");
                         <div class="col d-flex align-items-stretch">
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseBroccoli">
-                                    <img src="/images/broccoli.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/broccoli.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title  text-uppercase h3 hs-font-dark-green">Broccoli</h1>
 
                                 </a>
@@ -713,7 +713,7 @@ dirname("/public");
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapsePea">
 
-                                    <img src="/images/sprouts.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/sprouts.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title text-uppercase h3 hs-font-dark-green">Pea Shoots</h1>
 
                                 </a>
@@ -749,7 +749,7 @@ dirname("/public");
                         <div class="col d-flex align-items-stretch">
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseSunflower">
-                                    <img src="/images/sunflower.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/sunflower.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title text-uppercase h3 hs-font-dark-green">Sunflower</h1>
                                 </a>
 
@@ -790,7 +790,7 @@ dirname("/public");
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseChina">
 
-                                    <img src="/images/arugula.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/arugula.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title  text-uppercase h3 hs-font-dark-green">China Rose Radish</h1>
 
                                 </a>
@@ -815,7 +815,7 @@ dirname("/public");
                         <div class="col d-flex  align-items-stretch">
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseMix">
-                                    <img src="/images/package.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/package.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title  text-uppercase h3">Super Sprout Mix</h1>
                                 </a>
                                 <div id="collapseMix" class="collapse card-body text-center">
@@ -835,7 +835,7 @@ dirname("/public");
                         <div class="col d-flex align-items-stretch">
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseSalad">
-                                    <img src="/images/microSalad.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/microSalad.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title text-uppercase h3">Spicy Salad Mix</h1>
                                 </a>
                                 <div id="collapseSalad" class="collapse card-body text-center">
@@ -947,7 +947,7 @@ dirname("/public");
             </div>
 
             <!--div class="col-6 d-none d-lg-block my-auto">
-                <img class="img-fluid" src="/images/dish.jpg" alt="Photo by Augustine Fou on Unsplash">
+                <img class="img-fluid" src="public/images/dish.jpg" alt="Photo by Augustine Fou on Unsplash">
             </div-->
 
 
@@ -985,7 +985,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -1001,7 +1001,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -1017,7 +1017,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -1032,7 +1032,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -1046,7 +1046,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
@@ -1064,7 +1064,7 @@ dirname("/public");
             <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="/images/logoLg.gif">
+                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
