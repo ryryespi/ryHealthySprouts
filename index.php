@@ -118,7 +118,7 @@ dirname("/public");
 
             <!--Banner Logo (Healthy Sprouts Farm Fresh Superfood!)-->
             <div class="col-10 text-center">
-                <img class="hs-banner-img" src="public/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!">
+                <img class="hs-banner-img img text-center" src="public/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!">
             </div>
 
             <!--hs location-->
