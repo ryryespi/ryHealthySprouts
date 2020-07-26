@@ -2,17 +2,41 @@
     background-color:#59b9c7;
 }
 
+.hs-brand{
+    max-width:100px;
+}
+
+.hs-bg-dark-green{
+    background-color:#227D6B;
+}
+
 .hs-font-cyan{
     color:#59b9c7;
 }
 
+.hs-contact-info{
+    color:#227D6B;
+}
+
+.hs-font-dark-green{
+    color:#227D6B;
+}
+
+.hs-font-light-green{
+    color: #80c064; 
+}
+
+.hs-border-3{
+    border-style: solid;
+    border-color: #59b9c7; 
+}
 
 .logo-container{
     width: 200px; 
 }
 
-.logo {
-max-width: 200px;
+.hs-logo {
+max-width: 250px;
 }
 
 .hs-navbar{
@@ -20,11 +44,10 @@ max-width: 200px;
 }
 
 .hs-navbar-item{
-    padding:10px;
-    color:inherit;
+    padding: 10px;
+    color:#227D6B;
     text-decoration: none;
 }
-
 
 
 .hs-section{
@@ -45,22 +68,24 @@ max-width: 200px;
     min-height:840px;
 }
 
-.hs-image{
-    position:static;    
-    width:100%;
-    height:auto;
-    min-height:960px;   
-    display:block;
+.hs-img{
+    max-width:800px;
 }
 
 .hs-image-sprouts{
 background-image: url("sprouts.jpg")top left no-repeat;
 }
 
+.hs-bg-cyan-opacity{
+background-color: #59b8c75e;
+}
+
 .hs-title{
     font-weight: lighter;
     color: #59b9c7;
-    font: normal normal normal 88px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+    font: normal normal normal 70px/1.2em cormorantgaramond-light,cormorantgaramond,'cormorant garamond',serif;
+margin:auto;
+padding:auto;
 }
 
 
@@ -104,6 +129,7 @@ font-size:10vw;
 }
 
 
+
 .hs-info-title{
     font-weight:bold;
     color: white;
@@ -130,6 +156,13 @@ font-size:10vw;
     background-color:#59b9c7;
 }
 
+.hs-banner-img{
+    padding-right: 12%;
+    height:30%;
+    width:100%;
+    
+}
+
 
 .hs-subscribe-element{
     min-height:150px;
@@ -138,6 +171,10 @@ font-size:10vw;
 .hs-subscribe-btn{
         background-color:#59b9c7 ;
         color:white;
+}
+
+.hs-story-card{
+    width:18rem;
 }
 
 .hs-banner-container{
@@ -152,6 +189,11 @@ font-size:10vw;
     min-height:170px;
 }
 
+.hs-card{
+    min-height:350px;
+    padding:10px;
+}
+
 .hs-ref-bg{
     background-color:#045434;
 }
@@ -160,4 +202,8 @@ font-size:10vw;
     color:white;
     text-decoration-color:white;
 
+}
+
+.hs-bg-transparent{
+    background: transparent !important;
 }
