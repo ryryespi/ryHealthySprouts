@@ -114,9 +114,10 @@ dirname("/public");
             <div class="col-11 border-top hs-border-3"></div>
 
             <!--Banner Logo (Healthy Sprouts Farm Fresh Superfood!)-->
-            <div class="col-10 text-center">
-                <img class="hs-banner-img text-center" src="public/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!">
+            <div class="col-10 text-center mx-auto">
+                <img class="img-thumbnail border-0 mx-auto d-block" src="/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!">
             </div>
+
 
             <!--hs location-->
             <h1 class="hs-font-cyan h1 pb-lg-5">GALT, CA</h1>
@@ -256,10 +257,11 @@ dirname("/public");
             </div>
 
             <!--Nutrients From Microgreens-->
-            <div class="col text-center">
-                <h1 class="hs-title d-none d-sm-block">Nutrients From Microgreens</h1>
-                <h1 class="display-4 hs-font-cyan p-5 d-sm-none">Nutrients From Microgreens</h1>
+            <div class="col-12 col-lg-8 align-self-center">
+                <h1 class="hs-title d-none d-sm-block text-center">Nutrients From Microgreens</h1>
+                <h1 class="display-4 hs-font-cyan d-sm-none text-center">Nutrients From Microgreens</h1>
             </div>
+
 
             <!--Nutrients From Microgreens Image-->
             <div class="col text-center">
@@ -977,9 +979,11 @@ dirname("/public");
 
             </div>
 
-            <div class="col">
-                <h4 class="h4 p-5 text-center hs-font-cyan">Ordering Policy</h4>
+            <div class="col-11 w-100 text-center">
+                <h4 class="h4 hs-font-cyan my-4">Ordering Policy</h4>
             </div>
+
+
 
 
             <div class="col-11 card border-light mb-3">
@@ -1100,7 +1104,7 @@ dirname("/public");
         <div class="row justify-content-center hs-ref-text">
             <div class="col-1"></div>
 
-            <div class="col-4 text-left">
+            <div class="col-5 text-left">
                 Image Links<br>
                 Image by <a class="text-light" href="rawpixel.com">rawpixel</a><br>
                 <span>Photo by <a class="text-light"
@@ -1130,7 +1134,7 @@ dirname("/public");
             </div>
 
 
-            <div class="col-4 text-left">
+            <div class="col-5 text-left">
                 Reference Links<br>
                 <a class="text-light" href="https://gardeningheavn.com/sunflower-microgreens/">Sunflower Microgreens
                     -
@@ -1145,7 +1149,7 @@ dirname("/public");
                     Microgreens</a><br>
             </div>
         </div>
-        <div class="col-3"></div>
+        <div class="col-1"></div>
 
 
 
@@ -1158,7 +1162,7 @@ dirname("/public");
     <section id="copyright" class="hs-padding container text-center pb-3">
         <div class="row align-items-center flex-column">
             <div class="col hs-padding"></div>
-            <div class="col-4">
+            <div class="col-5">
                 <p class="h6">@2020 by healthsprouts. Proudly created by Ryan Rey Espinosa</p>
             </div>
         </div>
