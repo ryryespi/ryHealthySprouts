@@ -971,11 +971,9 @@ dirname("/public");
     <section id="policy" class="container">
         <div class="row flex-column align-items-center text-center p-5">
             <div class="col">
-
-                <h1 class="hs-title d-sm-block d-none">Shipping & Delivery</h1>
-                <h1 class="h1 p-4 hs-font-dark-green d-sm-none">Shipping & Delivery</h1>
-
-            </div>
+            <h1 class="hs-title d-sm-block d-none text-center">Shipping & Delivery</h1>
+                <h1 class="display-4 p-4 hs-font-cyan d-sm-none text-center">Shipping & Delivery</h1>
+           </div>
 
             <div class="col">
                 <h4 class="h4 p-5 text-center hs-font-cyan">Ordering Policy</h4>
