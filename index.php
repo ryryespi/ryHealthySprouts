@@ -315,7 +315,7 @@ dirname("/public");
                     <div class="card-body col-10 border btn bg-light">
                         <p class="card-text hs-font-dark-green text-left">Research comparing microgreens to more mature
                             greens
-                            reports that nutrient levels in microgreens can be four to fourty times higher than those
+                            reports that nutrient levels in microgreens can be four to forty times higher than those
                             found in mature greens.</p>
                     </div>
                 </div>
@@ -335,7 +335,7 @@ dirname("/public");
                         <p class="card-text hs-font-dark-green text-left">Microgreens are a rich source of polyphenols,
                             a class of
                             antioxidants linked to a lower risk of heart disease. Animal studies show that microgreens
-                            may lower triglyceride and "bad" LDL cholestrol levels.</p>
+                            may lower triglyceride and "bad" LDL cholesterol levels.</p>
                     </div>
                 </div>
             </div>
@@ -361,7 +361,7 @@ dirname("/public");
 
             <!--Element 3-3 (what are microgreens)-->
             <div class="col-11 card border-light mb-3">
-                <div class="row align-items-center">
+                <div class=" row align-items-center">
                 <div class="col-2 text-right">
                     <img class="card-img hs-brand" src="public/images/logoLg.gif">
                 </div>
@@ -370,7 +370,7 @@ dirname("/public");
                     <p class="card-text hs-font-dark-green text-left">Antioxidants may help reduce the type of
                         stress that can
                         prevent sugar from properly entering cells. In lab studies, fenugreek microgreens appeared
-                        to enhance cellular surgar uptake by 25-44%</p>
+                        to enhance cellular sugar uptake by 25-44%</p>
                 </div>
             </div>
         </div>
@@ -412,7 +412,7 @@ dirname("/public");
             <!--Fourth Element-->
             <div class="col-10 text-left">
                 <h2 class="hs-font-cyan">Vision:</h2>
-                <p class="hs-font-dark-green">Healthy Sprouts will be percieved by its customers as the benchmark of the
+                <p class="hs-font-dark-green">Healthy Sprouts will be perceived by its customers as the benchmark of the
                     microgreens industry. While being environmentally
                     friendly. Healthy Sprouts will strive to create a safe rewarding vegetables that will continue to
                     grow and diversify using the most safe environmental practices while achieving the healthy lifestyle
@@ -498,10 +498,10 @@ dirname("/public");
                                 loves to munch on the Sunflower microgreens which happen to be crunchy and has a bit of
                                 a nutty taste to it-she could finish the entire container in one sitting!
                                 Besides adding the microgreens to our breakfast meals, soups, and salads, we also like
-                                to add a variety of the microgreeens to our daily juicing of fresh organic vegies as
+                                to add a variety of the microgreens to our daily juicing of fresh organic veggies as
                                 well.
                                 <br><br>
-                                We highly recomend Healthy Sprouts. They are very consistent in providing us fresh and
+                                We highly recommend Healthy Sprouts. They are very consistent in providing us fresh and
                                 tasty organic microgreens and we couldn't be happier with their service.
                             </p>
                         </div>
@@ -629,7 +629,7 @@ dirname("/public");
                     <a class="list-group-item list-group-item-action" id="list-arugula-list" data-toggle="list"
                         href="#list-arugula" role="tab" aria-controls="arugula">Arugula</a>
                     <a class="list-group-item list-group-item-action" id="list-boroccoli-list" data-toggle="list"
-                        href="#list-boroccoli" role="tab" aria-controls="boroccoli">Boroccoli</a>
+                        href="#list-boroccoli" role="tab" aria-controls="boroccoli">Broccoli</a>
                     <a class="list-group-item list-group-item-action" id="list-pea-list" data-toggle="list"
                         href="#list-pea" role="tab" aria-controls="pea">Pea Shoots</a>
                     <a class="list-group-item list-group-item-action" id="list-sunflower-list" data-toggle="list"
@@ -852,7 +852,7 @@ dirname("/public");
                                 </a>
                                 <div id="collapseSalad" class="collapse card-body text-center">
                                     <p class="card-text">
-                                        Mix of different Microgreens with Spicy Salad Dressing. Contains: Boroccoli,
+                                        Mix of different Microgreens with Spicy Salad Dressing. Contains: Broccoli,
                                         Kale, Kohlrabi, Arugula, Red Cabbage and Southern Giant Mustard for an extra
                                         kick. </p>
                                 </div>
@@ -1081,7 +1081,7 @@ dirname("/public");
 
                     <div class="card-body col-10 border btn bg-light">
                         <p class="card-text hs-font-dark-green text-left">
-                        <p class="hs-font-dark-green text-left">We at Healthy Sprouts price ourselves in providing the
+                        <p class="hs-font-dark-green text-left">We at Healthy Sprouts pride ourselves in providing the
                             FRESHEST Microgreens in the Galt Area. Spread the healthiest love and help educate everyone
                             you know on the flavor and nutritional value of Microgreens. You and your new Healthy Sprout
                             referral will each get a free 2 oz. box of your choice! Just simply email <a
@@ -1181,15 +1181,6 @@ dirname("/public");
     </section>
 
 </body>
-
-
-
-
-
-
-
-
-
 
 
 </html>
