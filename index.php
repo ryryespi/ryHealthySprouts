@@ -484,7 +484,7 @@ dirname("/public");
 
 
                 <!--testimonial 2-->
-                <div class="carousel-item" data-interval="2000">
+                <div class="carousel-item" data-interval="20000">
                     <div class="hs-card w-100 d-block" alt="...">
                         <div class="card-body text-center ">
                             <h1 class="card-title h1">Jeff & Cris A.</h1>
@@ -511,7 +511,7 @@ dirname("/public");
 
 
                 <!--testimonial 3-->
-                <div class="carousel-item" data-interval="3000">
+                <div class="carousel-item" data-interval="30000">
                     <div class="hs-card w-100 d-block" alt="...">
                         <div class="card-body text-center">
                             <h1 class="card-title h1">Maria "Soc" Coquioco</h1>
@@ -529,7 +529,7 @@ dirname("/public");
 
 
                 <!--testimonial 4-->
-                <div class="carousel-item" data-interval="4000">
+                <div class="carousel-item" data-interval="40000">
                     <div class="hs-card w-100 d-block" alt="...">
                         <div class="card-body text-center">
                             <h1 class="card-title h1">Valerie Clark</h1>
