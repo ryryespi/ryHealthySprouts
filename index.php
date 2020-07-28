@@ -360,8 +360,8 @@ dirname("/public");
 
 
             <!--Element 3-3 (what are microgreens)-->
-            <div class="col-11 card border-light mb-3>
-                <div class=" row align-items-center">
+            <div class="col-11 card border-light mb-3">
+                <div class="row align-items-center">
                 <div class="col-2 text-right">
                     <img class="card-img hs-brand" src="public/images/logoLg.gif">
                 </div>
