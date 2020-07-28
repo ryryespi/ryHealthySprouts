@@ -115,11 +115,10 @@ dirname("/public");
 
             <!--Banner Logo (Healthy Sprouts Farm Fresh Superfood!)-->
             <div class="col-10 text-center mx-auto">
-    <!--img class="img-thumbnail border-0 mx-auto d-block" src="/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!"-->
-    <h1 class="text-center hs-title  hs-font-cyan d-none d-lg-block mt-5">Healthy Sprouts</h1>
+                <!--img class="img-thumbnail border-0 mx-auto d-block" src="public/images/hs-full-logo.jpg" alt="Healthy Sprouts Farm Fresh Superfood!"-->
+                <h1 class="text-center hs-title  hs-font-cyan d-none d-lg-block mt-5">Healthy Sprouts</h1>
                 <h1 class="text-center h1  hs-font-cyan d-lg-none">Healthy Sprouts</h1>
-                       </div>
-
+            </div>
 
             <!--hs location-->
             <h1 class="hs-font-cyan h1 pb-lg-5">GALT, CA</h1>
@@ -169,7 +168,7 @@ dirname("/public");
 
             <div class="col-md-6">
                 <div class="card d-flex align-items-stretch rounded-lg text-center text-light">
-                    <img class="card-img" src="public/images/sunflower.jpg">
+                    <img class="card-img" src="public/images/farm.jpg">
 
                     <div class="card-body hs-font-cyan">
                         <div class="card-img-overlay text-center mt-5 pt-5">
@@ -264,7 +263,6 @@ dirname("/public");
                 <h1 class="display-4 hs-font-cyan d-sm-none text-center">Nutrients From Microgreens</h1>
             </div>
 
-
             <!--Nutrients From Microgreens Image-->
             <div class="col text-center">
                 <img class="img-thumbnail w-50 m-5" src="public/images/arugula.jpg">
@@ -327,7 +325,7 @@ dirname("/public");
 
 
             <!--Element 3-1 (what are microgreens)-->
-            <div class="col-11 card border-light mb-3 ml-5">
+            <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
                         <img class="card-img hs-brand" src="public/images/logoLg.gif">
@@ -345,7 +343,7 @@ dirname("/public");
 
 
             <!--Element 3-2 (what are microgreens)-->
-            <div class="col-11 card border-light mb-3 ml-5">
+            <div class="col-11 card border-light mb-3">
                 <div class="row align-items-center">
                     <div class="col-2 text-right">
                         <img class="card-img hs-brand" src="public/images/logoLg.gif">
@@ -362,28 +360,28 @@ dirname("/public");
 
 
             <!--Element 3-3 (what are microgreens)-->
-            <div class="col-11 card border-light mb-3 ml-5">
-                <div class="row align-items-center">
-                    <div class="col-2 text-right">
-                        <img class="card-img hs-brand" src="public/images/logoLg.gif">
-                    </div>
+            <div class="col-11 card border-light mb-3>
+                <div class=" row align-items-center">
+                <div class="col-2 text-right">
+                    <img class="card-img hs-brand" src="public/images/logoLg.gif">
+                </div>
 
-                    <div class="card-body col-10 border btn bg-light">
-                        <p class="card-text hs-font-dark-green text-left">Antioxidants may help reduce the type of
-                            stress that can
-                            prevent sugar from properly entering cells. In lab studies, fenugreek microgreens appeared
-                            to enhance cellular surgar uptake by 25-44%</p>
-                    </div>
+                <div class="card-body col-10 border btn bg-light">
+                    <p class="card-text hs-font-dark-green text-left">Antioxidants may help reduce the type of
+                        stress that can
+                        prevent sugar from properly entering cells. In lab studies, fenugreek microgreens appeared
+                        to enhance cellular surgar uptake by 25-44%</p>
                 </div>
             </div>
+        </div>
 
 
 
 
-            <!--horizontal rule-->
-            <div class="col-11 align-self-center mt-5 py-5">
-                <div class="border-top hs-border-3"></div>
-            </div>
+        <!--horizontal rule-->
+        <div class="col-11 align-self-center mt-5 py-5">
+            <div class="border-top hs-border-3"></div>
+        </div>
 
 
         </div>
@@ -451,6 +449,7 @@ dirname("/public");
     </section>
 
 
+
     <!--Healthy Sprouts Testimonials Section-->
     <div id="testimonials" class="pb-5">
 
@@ -460,6 +459,7 @@ dirname("/public");
                 <li data-target="#healthySproutsTestimonial" data-slide-to="1"></li>
                 <li data-target="#healthySproutsTestimonial" data-slide-to="2"></li>
                 <li data-target="#healthySproutsTestimonial" data-slide-to="3"></li>
+                <li data-target="#healthySproutsTestimonial" data-slide-to="4"></li>
 
 
             </ol>
@@ -472,7 +472,7 @@ dirname("/public");
                     <div class="hs-card w-100 d-block" alt="...">
                         <div class="card-body text-center">
                             <h1 class="card-title h1">Alice Cortez</h1>
-                            <p class="card-text"><small class="small">California</small></p>
+                            <p class="card-text"><small class="small">Galt, California</small></p>
                             <p class="card-text">I am very impressed with the Farm Fresh Superfoods I have enjoyed from
                                 Healthy Sprouts on a weekly basis ! The product is precisely cut,clean & neatly packaged
                                 . I have shared my veggies with coworkers & friends from Chico! Josen has developed her
@@ -510,13 +510,16 @@ dirname("/public");
 
 
 
- <!--testimonial 3-->
- <div class="carousel-item" data-interval="3000">
+                <!--testimonial 3-->
+                <div class="carousel-item" data-interval="3000">
                     <div class="hs-card w-100 d-block" alt="...">
                         <div class="card-body text-center">
-                            <h1 class="card-title h1">Maria Ramirez</h1>
-                            <p class="card-text"><small class="small">California</small></p>
-                            <p class="card-text"> I love the micro greens from Healthy Sprouts! They are delicious, organic and I can add them to anything! The best part is that they help with my diet to keep me healthy plus the flavors are amazing! I 100% recommend! They’re always fresh and the owner has an amazing service and attitude towards customers! 
+                            <h1 class="card-title h1">Maria "Soc" Coquioco</h1>
+                            <p class="card-text"><small class="small">Elk Grove, California</small></p>
+                            <p class="card-text"> I love the micro greens from Healthy Sprouts! They are delicious,
+                                organic and I can add them to anything! The best part is that they help with my diet to
+                                keep me healthy plus the flavors are amazing! I 100% recommend! They’re always fresh and
+                                the owner has an amazing service and attitude towards customers!
 
                             </p>
                         </div>
@@ -524,7 +527,23 @@ dirname("/public");
                 </div>
 
 
+
                 <!--testimonial 4-->
+                <div class="carousel-item" data-interval="4000">
+                    <div class="hs-card w-100 d-block" alt="...">
+                        <div class="card-body text-center">
+                            <h1 class="card-title h1">Valerie Clark</h1>
+                            <p class="card-text"><small class="small">California</small></p>
+                            <p class="card-text"> I appreciate the quality and taste of Healthy Sprout's micro greens.
+                                The individual packaging helps maintain the freshness for the entire week. Her customer
+                                service and prompt delivery helps me with my meal prepping for the week.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!--testimonial 5-->
                 <div class="carousel-item">
                     <div class="hs-card w-100 d-block" alt="...">
                         <div class="card-body text-center">
@@ -617,8 +636,6 @@ dirname("/public");
                         href="#list-sunflower" role="tab" aria-controls="sunflower">Sunflower</a>
                     <a class="list-group-item list-group-item-action" id="list-radish-list" data-toggle="list"
                         href="#list-radish" role="tab" aria-controls="radish">China Rose Radish</a>
-                    <a class="list-group-item list-group-item-action" id="list-mix-list" data-toggle="list"
-                        href="#list-mix" role="tab" aria-controls="mix">Super Sprout Mix</a>
                     <a class="list-group-item list-group-item-action" id="list-salad-list" data-toggle="list"
                         href="#list-salad" role="tab" aria-controls="salad">Spicy Salad Mix</a>
 
@@ -674,12 +691,7 @@ dirname("/public");
                                         originally know in
                                         the Mediterranean region. It can be eaten as raw or add it with your salad,
                                         pizza, wraps,
-                                        nachos or pesto sauce for your pasta. Health Benefits: High in Antioxidant,
-                                        which supports
-                                        immune system, cell growth, overall eye health. It also helps maintain kidney,
-                                        lung and
-                                        heart function.
-                                        Nutrients: Rich in Calcium & Potassium, Vitamin B,C,K & A.</p>
+                                        nachos or pesto sauce for your pasta.</p>
                                 </div>
 
                             </div>
@@ -810,7 +822,7 @@ dirname("/public");
                             <div class="card" alt="...">
                                 <a class="btn" data-toggle="collapse" href="#collapseChina">
 
-                                    <img src="public/images/arugula.jpg" class="card-img-top" alt="...">
+                                    <img src="public/images/chinarose.jpg" class="card-img-top" alt="...">
                                     <h1 class="card-title  text-uppercase h3 hs-font-dark-green">China Rose Radish</h1>
 
                                 </a>
@@ -825,27 +837,7 @@ dirname("/public");
 
                     </div>
 
-                    <div class="tab-pane fade" id="list-mix" role="tabpanel" aria-labelledby="list-mix-list">
 
-
-
-
-
-                        <!--Super Sprout Mix-->
-                        <div class="col d-flex  align-items-stretch">
-                            <div class="card" alt="...">
-                                <a class="btn" data-toggle="collapse" href="#collapseMix">
-                                    <img src="public/images/package.jpg" class="card-img-top" alt="...">
-                                    <h1 class="card-title  text-uppercase h3">Super Sprout Mix</h1>
-                                </a>
-                                <div id="collapseMix" class="collapse card-body text-center">
-                                    <p class="card-text">Mix of Pea Shoots, Broccoli, Sunflower and Arugula</p>
-                                </div>
-
-                            </div>
-                        </div>
-
-                    </div>
 
                     <div class="tab-pane fade" id="list-salad" role="tabpanel" aria-labelledby="list-salad-list">
 
@@ -991,15 +983,15 @@ dirname("/public");
     <section id="policy" class="container">
         <div class="row flex-column align-items-center text-center p-5">
             <div class="col">
-            <h1 class="hs-title d-sm-block d-none text-center">Shipping & Delivery</h1>
+
+                <h1 class="hs-title d-sm-block d-none text-center">Shipping & Delivery</h1>
                 <h1 class="display-4 p-4 hs-font-cyan d-sm-none text-center">Shipping & Delivery</h1>
-           </div>
+
+            </div>
 
             <div class="col-11 w-100 text-center">
                 <h4 class="h4 hs-font-cyan my-4">Ordering Policy</h4>
             </div>
-
-
 
 
             <div class="col-11 card border-light mb-3">
@@ -1025,7 +1017,7 @@ dirname("/public");
                     </div>
 
                     <div class="card-body col-10 border btn bg-light">
-                        <p class="card-text hs-font-dark-green text-left">In order to provice you the freshest
+                        <p class="card-text hs-font-dark-green text-left">In order to provide you the freshest
                             microgreens we grow
                             them to order. Order's placed on a <b>Sunday - Wednesday</b> will be delivered the following
                             Saturday.</p>
@@ -1147,6 +1139,10 @@ dirname("/public");
                         href="https://unsplash.com/@augustinefou?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Augustine
                         Fou</a> on <a class="text-light"
                         href="https://unsplash.com/s/photos/microgreens?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span><br>
+                <span>Photo by <a
+                        href="https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus
+                        Winkler</a> on <a
+                        href="https://unsplash.com/s/photos/farming?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
             </div>
 
 
