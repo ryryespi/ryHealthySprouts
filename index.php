@@ -232,7 +232,7 @@ dirname("/public");
                         <p class="card-text hs-font-dark-green text-left">Microgreens are not sprouts.
                             Sprouts have no leaves and have a growing cycle of 2-7 days,
                             whereas microgreens are usually harvested 7-12 days after germination or
-                            once the plant's first ture leaves have emerged</p>
+                            once the plant's first true leaves have emerged</p>
                     </div>
                 </div>
             </div>
